@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 8, 2018, Feb 8, 2018 10:27:48 AM
+    Author     : RSPHCMB
+*/
+body{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+.container-fluid{
+  height: auto !important;
+  background-color: white;
+  text-align: center;
+}
+#ken{
+    display: block;
+    color: brown;
+    font-family: tahoma;
+}
+#image-holder{
+  background-color: burlywood;
+  display: block;
+  margin: 10px 30px 20px 30px;
+  border-radius: 10px;
+}
+#main-image{
+  padding: 5px 5px 5px 5px !important;
+  margin: 20px 20px 2px 20px;
+  display: block;
+  background-color: #ffffcc;
+  border-radius: 5px 5px 5px 5px;
+}
+h3{
+  display: block;
+  font-style: italic;
+}
+.img{
+  width: 60%;
+  display: block;
+  margin: 20px 20px 20px 20px;
+}
+h4{
+  display: block;
+  text-align: center;
+  font: bold tahoma;
+}
+.biography{
+  background-color: burlywood;
+  display: block;
+  margin: 0px 40px 0px 40px;
+  text-align: left;
+}
+.biography p{
+    font-weight: bold;
+    font-size: 30px;
+}
+.author{
+    text-align: left;
+    font-style: normal;
+    font-size: 14px;
+}
+#read-more{
+    font-style: normal;
+    font-size: 16px;
+}
+footer{
+  font-size: 20px; 
+  border-top: 2px;
+  background-color: #ffffcc;
+  margin: 60px 60px 10px 60px;
+}
+
+
